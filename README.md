@@ -1,7 +1,9 @@
-#First readme with local machine
-##About the project:
-* Create and setup my first Git
-[code language="python"]
-def f(x):
-	return x-1
-[/code]
+# First readme with local machine
+
+## About the project:
+
+### I pushed :
+* My first file
+* In my first repository
+* Of the first task
+* Of my first school project
